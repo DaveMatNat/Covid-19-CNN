@@ -36,10 +36,9 @@ This project applies deep learning techniques to classify lung X-rays as COVID-1
 
 ## Installation
 
-### Google Colab
-Link (**File -> Save a Copy in Drive**): [Google Colab](https://colab.research.google.com/drive/1j54DzfeveQmQ1C3AuzoUF4pyHhytvuGO?usp=sharing)
+### Google Colab: Link (**File -> Save a Copy in Drive**): [Google Colab](https://colab.research.google.com/drive/1j54DzfeveQmQ1C3AuzoUF4pyHhytvuGO?usp=sharing)
 
-### Local
+### **Or Local**
 1. Clone this repository:
    ```bash
    git clone https://github.com/DaveMatNat/Covid-19-CNN.git
