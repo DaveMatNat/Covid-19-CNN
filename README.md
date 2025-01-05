@@ -39,6 +39,7 @@ This project applies deep learning techniques to classify lung X-rays as COVID-1
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/CV19CNN.git
+   
    cd CV19CNN
    ```
 2. Install the required dependencies
